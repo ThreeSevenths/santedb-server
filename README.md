@@ -1,4 +1,4 @@
-# SanteDB iCDR Central Server
+# SanteDB iCDR Central Server 
 
 ![](https://jenkins.fyfesoftware.ca/buildStatus/icon?job=santedb-icdr-master&style=flat)
 
